@@ -1,8 +1,8 @@
 print("bem vindo ao BES")
 
-saldo=float(input("Digite seu saldo da conta: "))
+saldo=float(input("Escreva seu saldo da conta: "))
 print("")
-cheque=float(input("Digite o valor da cheque: "))
+cheque=float(input("Escreva o valor da cheque: "))
 
 if saldo > cheque:
      saldofinal=saldo-cheque

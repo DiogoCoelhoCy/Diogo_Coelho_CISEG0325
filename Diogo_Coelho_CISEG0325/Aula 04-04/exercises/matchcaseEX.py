@@ -1,7 +1,7 @@
 
 print("Bem vindo")
 
-mes=int(input("Digite um numero (1 a 12): "))
+mes=int(input("Escreva um numero (1 a 12): "))
 
 match mes:
     case 1:
